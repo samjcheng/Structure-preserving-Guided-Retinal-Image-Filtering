@@ -1,4 +1,4 @@
-# structure-preserving-guided-retinal-image-filtering
+# Structure-preserving-guided-retinal-image-filtering
 
 The Matlab code for Structure-Preserving Guided Retinal Image Filtering
 
